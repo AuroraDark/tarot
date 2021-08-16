@@ -2,4 +2,7 @@
 
 Projeto de Jogo de Cartas de Tarot
 
-Nome Larissa
+## Autores:
+
+- Larissa de Athayde
+- Andressa Silva
