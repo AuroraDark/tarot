@@ -870,11 +870,11 @@
       "valor_int": 1,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Esclarecimento intelectual, precisão e clareza.",
+      "emocional": "Ausência de sentimentalismo. Esta carta coloca o sentimento apenas na fé, no misticismos ou nas convicções profundas.",
+      "fisico": "Saúde. Desenvolvimento progressivo. Bom estabelecimento das coisas. Recuperação do potencial nervoso.",
+      "sombra": "Triunfo, mas os resultados são desastrosos. Em certos casos significa violência. Interrupção brusca da vida.",
+      "desc": "Representa a força ativa que o homem desenvolve com firmeza e compreensão para o triunfo de seu ideal. Triunfo, o grau excessivo de tudo, conquista, vitória pela força. É uma carta de grande força, tanto no amor como no ódio. A coroa pode ter um significado muito mais alto do que tem habitualmente na esfera da leitura da sorte. Também é interpretada como concepção, nascimento, aumento, multiplicidade."
     },
     {
       "nome": "Dois de Espada",
@@ -883,11 +883,11 @@
       "valor_int": 2,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Equilíbrio estático. Ausência de atividade.",
+      "emocional": "Riqueza de sentimentos em potencial.",
+      "fisico": "Negócios frustrados, obstáculos, prostração. Hipertensão, circulação lenta. ",
+      "sombra": "Impostura, falsidade, duplicidade, deslealdade.",
+      "desc": "Representa a interrupção de uma ação concreta, com vistas a um posterior enriquecimento, que se destina a amadurecer este empreendimento. Boa parte dos cartomantes não vê harmonia e outros significados muito favoráveis no naipe de Espadas, com relação aos assuntos humanos."
     },
     {
       "nome": "Três de Espada",
@@ -896,11 +896,11 @@
       "valor_int": 3,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Decisão, afastamento da hesitações.",
+      "emocional": "Desprendimento, nitidez nos sentimentos, clara perspectiva das coisas",
+      "fisico": "Apoio, aporte de energia. Evolução clara e direta nos negócios. Saúde muito boa. Em caso de doença, pode indicar obstáculos, demora na cura.",
+      "sombra": "Alienação mental, erro, perda, distração, desordem, confusão.",
+      "desc": "Indica o trabalho ativo da consciência determinando ações precisas."
     },
     {
       "nome": "Quatro de Espada",
@@ -909,11 +909,11 @@
       "valor_int": 4,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": " Riqueza de fluidez.",
+      "emocional": "Sentimentos seguros e profundos; união sem perturbação.",
+      "fisico": "Criação, organização com grande potencial, que permite a realização de qualquer empreendimento. Assuntos muito ricos em espiritualidade.",
+      "sombra": "Desgosto, depressão, tristeza, sentimento que se empana e extingue.",
+      "desc": "A alegria, o ardor interior do ser humano, criado através do trabalho e da atividade construtiva. Vigilância, retiro, solidão, repouso do ermitão, exílio, túmulo e féretro. Boa administração, circunspecção, economia, avareza, precaução, testamento."
     },
     {
       "nome": "Cinco de Espada",
@@ -922,11 +922,11 @@
       "valor_int": 5,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Pensamento instintivo, claro. Decisão. Percepção compreensiva dos acontecimentos.",
+      "emocional": "Tende a ver o lado intelectual dos problemas psicológicos. Por exemplo, casamento por conveniência e não por amor. Pede esforço sobre a passividade que leva a um sacrifício da parte psíquica.",
+      "fisico": "Rumo ao sucesso. Orientação para um desfecho. Domínio sobre os acontecimentos.",
+      "sombra": "Teimosia, lentidão, obstáculo. Negócios difíceis de gerenciar. Cortes ou interrupções muito sérias.",
+      "desc": "Decisão tomada pelo homem para acabar com as dificuldades trazidas por sua estagnação no mundo material. Degradação, destruição, revogação, infâmia, desonra, perda. Enterro e funerais."
     },
     {
       "nome": "Seis de Espada",
@@ -935,11 +935,11 @@
       "valor_int": 6,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Idéias criativas, percepção de empreendimentos a serem realizados, início de idéias renovadoras.",
+      "emocional": "Proteção efetiva e reconfortante. Relações práticas entre as pessoa",
+      "fisico": "Gestação, maternidade. Negócios que se desenvolvem com equilíbrio. Harmonia. Segurança.",
+      "sombra": "Desordens materiais. Problemas nos negócios. Prejuízos e diminuições. Afinidades com o lado mal e com a discórdia.",
+      "desc": "Atividade mental do ser humano dirigida por ele para realizar a organização e a conciliação das forças materiais."
     },
     {
       "nome": "Sete de Espada",
@@ -948,11 +948,11 @@
       "valor_int": 7,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Compreensão das coisas, idéias claras, julgamento equilibrado.",
+      "emocional": "Harmonia, psiquismo, altruísmo, união, concordância de pontos de vista.",
+      "fisico": "Encaminhamento harmonioso, bons resultados.",
+      "sombra": "Depressão, dúvidas, falta de inspiração, tentativas tímidas para se libertar.",
+      "desc": "Representa a prova a que o ser humano é obrigado a se submeter para tomar ciência de um saber sem o qual não conseguiria penetrar em seu sentido interior.Intenção, tentativa, desejo, esperança, confiança; também briga, um plano que pode falhar, aborrecimento. Bom conselho, instrução. Calúnia, tagarelice."
     },
     {
       "nome": "Oito de Espada",
@@ -961,11 +961,11 @@
       "valor_int": 8,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Elevação de espírito, compreensão do esforço espiritual, do impulso místico.",
+      "emocional": "Desinteresse, amor dirigido às massas, apostolado.",
+      "fisico": "Estabilidade na ação, melhores resultados mais de ordem espiritual que material",
+      "sombra": "Más notícias, grande aborrecimento, crise, censura, obstáculos, conflito, calúnia; também doença. Inquietação, dificuldade, oposição, acidente, traição; o que é imprevisto; fatalidade.",
+      "desc": "Esforço de libertação do homem através de uma evolução interior, resultante de suas atividades mentais, como uma recompensa dada pelo destino."
     },
     {
       "nome": "Nove de Espada",
@@ -974,11 +974,11 @@
       "valor_int": 9,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Atividade mental, clareza, inspiração em todos os assuntos de ordem intelectual.",
+      "emocional": "Estado afetivo, amor iluminado pela inteligência; forte, não pelo lado material, mas por sua profundidade.",
+      "fisico": "Negócios brilhantes, conduzidos com uma habilidade que leva ao sucesso.",
+      "sombra": "Falso julgamento. Pretensão de saber julgar.",
+      "desc": "Representa a necessidade do homem realizar um trabalho perseverante para se livrar daquilo que significaria uma estabilidade enganosa, que paralisaria sua evolução. Decepção, desengano, atraso em negócios. Sendo seguida de Nove de Ouros ou de Ás de Paus, denota dinheiro que será recebido com atraso. Indica também desgosto, lutas misteriosas, perigo de morte, moléstia grave, envenenamento, inimizades poderosas. É necessário prudência e discrição para vencer obstáculos."
     },
     {
       "nome": "Dez de Espada",
@@ -987,11 +987,11 @@
       "valor_int": 10,
       "suit": "espada",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Julgamento eqüitativo, humanitário.",
+      "emocional": "Satisfação e acordo místico, principalmente sentimento, num amor depurado. Afeição muito elevada.",
+      "fisico": "Atitude feliz diante dos acontecimento, através de autodomínio e de equilíbrio sentimental. Negócios ajudados providencialmente. Saúde que precisa mais de apoio nervoso do que físico; possibilidade de anemia.",
+      "sombra": "Desordem sentimental que falseia o julgamento.",
+      "desc": "Representa o senso anímico do homem que, quando iluminado pelo equilíbrio harmonioso de suas experiências, pode agir com conhecimento de causa e consegue realizar à sua volta envolvimentos afetivos, que cuidam e protegem suas criações."
     }
   ]
 }
