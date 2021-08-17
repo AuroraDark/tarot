@@ -532,11 +532,11 @@
       "valor_int": 3,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Penetração espiritual para organizar assuntos materiais.",
+      "emocional": "Realização psíquica.",
+      "fisico": " Aporte espiritual. Encarnação do espírito na matéria.",
+      "sombra": "Materialismo. Superficialidade. Apego excessivo à matéria.",
+      "desc": "Representa a sublimação de uma receptividade instintiva em riquezas dos sentimentos superiores. A conclusão de algo com plenitude, perfeição e deleite; desfecho feliz, vitória, consecução, alívio, saúde. Expedição, despacho, consumação, fim. Também significa o lado do excesso no gozo físico e os prazeres dos sentidos.Êxito, ciência, vitória, cura, alívio, realização, expedição, despacho, conclusão, descoberta, achado. Novas afeições, ternura, poesia, realização de esperanças, amor delicado por uma moça de grandes qualidades."
     },
     {
       "nome": "Quatro de Copas",
@@ -545,11 +545,11 @@
       "valor_int": 4,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Confiar na intuição e agir sem se perder em análises.",
+      "emocional": "Realização psíquica, contribuições favoráveis e estáveis.",
+      "fisico": "Negócio bem estabelecido, bem organizado, que promete ser estável e duradouro. Segurança quanto à saúde.",
+      "sombra": "Estagnação, atravancamento, problemas circulatórios.",
+      "desc": "Simboliza as reservas que o ser humano acumula através de seus esforços físicos e que para ele se traduzem em proveito quanto a qualidade e duração. Cansaço, desgosto, aversão, vexames imaginários. Presentes são oferecidos ao perdulário, mas não lhe trazem consolo. Novidade, novas referências, novas relações.Parentesco, família, meio social. Amores sólidos e duráveis, amizades úteis, realização das esperanças, aproximação de uma grande alegria."
     },
     {
       "nome": "Cinco de Copas",
@@ -558,11 +558,11 @@
       "valor_int": 5,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Clareza de concepção. Domínio sobre os elementos presentes.",
+      "emocional": "Impulso místico, ternura maternal, sacrifício por amor, impregnação pelo amor universal.",
+      "fisico": "Nos negócios traz segurança para orientar os acontecimentos ou para dirigir os assuntos com sutileza. Na saúde indica vitalidade delicada, saúde frágil sustentada por uma grande força de espírito e pelo equilíbrio nervoso.",
+      "sombra": "Interrupção na evolução, efeitos graves, tristeza, desânimo, angústia, desespero.",
+      "desc": "Representa, por parte do homem, a organização das percepções e da sensibilidade absorvidas nos níveis mais profundos, para dar impulso aos sentimentos materiais e atingir o plano espiritual. É considerada uma carta de perda, mas algo permanece; é uma carta de herança, patrimônio, transmissão, mas que não corresponde às expectativas. Também é vista como uma carta de matrimônio, mas não sem amargura ou frustração. Notícias, alianças, afinidade, consangüinidade, ancestralidade, regresso, falsos projetos. Legados, heranças, donativos, patrimônio, testamento. Em assuntos de amor, este Arcano denota contrariedades e questões. Para um homem: perigos por uma mulher. Para uma mulher solteira: perigo de sedução."
     },
     {
       "nome": "Seis de Copas",
@@ -571,11 +571,11 @@
       "valor_int": 6,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Julgamento ativo, sólido, completo, definitivo e benéfico, pois o Arcano representa uma harmonia entre o espiritual e o material.",
+      "emocional": "Sentimentos fortes, protetores, equilibrados.",
+      "fisico": "Negócio estável, garantido, quase inabalável. Saúde robusta, com tendência a excesso de sangue",
+      "sombra": "Mal-estar, lentidão, mas momentâneos.",
+      "desc": "Representa a evolução dos instintos, dos sentimentos e das intuições que o homem busca pra realizar o equilíbrio de suas percepções. Uma carta do passado e de lembranças, olhando para trás, para a infância; felicidade, prazer, porém vindo do passado. Também novas relações, novos conhecimentos, novos ambientes. O futuro, renovação, que passará logo. O passado, o anterior. Novas ralações, novos conhecimentos, novo meio. Má escolha no casamento, por influência de parentes; abandono ou ruptura de casamento."
     },
     {
       "nome": "Sete de Copas",
@@ -584,11 +584,11 @@
       "valor_int": 7,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Idéias criativas. Educação e revelação tanto para os outros como para si mesmo.",
+      "emocional": "Amor protetor, animador e impessoal: amor pela pátria, desejo de heroísmo.",
+      "fisico": "Negócios administrados com raciocínio claro. Decisões acertadas; o julgamento surge de maneira intuitiva e com segurança. Boa saúde. Harmonia corporal, boa circulação, flexibilidade, agilidade corporal.",
+      "sombra": "Mal estar.",
+      "desc": "Simboliza o desejo de expansão do homem, a compreensão e a realização que são conseqüências desse desejo. Belos favores, imagens de reflexão, sentimento, imaginação, coisas vistas no espelho da contemplação; mas nada é sugerido de permanente ou substancial. Desejo, vontade, determinação, projeto. Pensamento, alma, espírito, entendimento, reflexão. Êxito por meio de uma mulher, felicidade pelo encontro de uma mulher amorosa, porém depois de muitas lutas e peripécias."
     },
     {
       "nome": "Oito de Copas",
@@ -597,11 +597,11 @@
       "valor_int": 8,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Fixação nos pensamentos e idéias obsessivas.",
+      "emocional": "Afeição de dois seres que não se libertam de si mesmos.",
+      "fisico": "Negócios estáveis, que vão bem, mas precisam evoluir. Saúde: estado doentio que persistirá se não forem tomadas providências. ",
+      "sombra": "Temor, modéstia, alegria, prazer, satisfação. Perigo de escândalos em amor, amores proibidos, paixões violentas, divórcio, mau casamento, perigo de sedução. É favorável aos negócios.",
+      "desc": "Representa uma clareza decorrente de um julgamento equilibrado e seguro que, no entanto, o homem só consegue utilizar quando é estimulado a abandonar sua passividade. Significa alegria, doçura, tumidez, honra, modéstia. Habitualmente a carta mostra o declínio de uma questão que foi considerada importante, mas é na realidade de pouca significação, para o bem ou para o mal. Grande alegria, felicidade, deleite. "
     },
     {
       "nome": "Nove de Copas",
@@ -610,11 +610,11 @@
       "valor_int": 9,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Clareza de julgamento, pois o espírito se reveste de uma inteligência baseado no conhecimento.",
+      "emocional": "Aplicações na coletividade, obras altruísticas, em grupos e congregações, e não individualmente.",
+      "fisico": "Negócios em franco progresso, equilibrados em todos os aspectos. Saúde boa, cura de doença, temperamento resistente e dotado de grande força nervosa.",
+      "sombra": "Desordem ou confusão; persistência no erro.",
+      "desc": "Concórdia, contentamento, bem-estar físico. Vitória, sucesso, vantagem, satisfação para o consulente ou para a pessoa para quem é feita a consulta. Verdade, lealdade, liberdade; mas também erros, imperfeições, etc. Vitória, êxito, ganho, triunfo, prosperidade, lealdade, boa-fé, franqueza, verdade. Indica união com um velho ou com uma pessoa viúva, amores estranhos, celibato. É necessário prudência nos desejos e na escolha das afeições, embora o conjunto seja favorável."
     },
     {
       "nome": "Dez de Copas",
@@ -623,11 +623,11 @@
       "valor_int": 10,
       "suit": "copas",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Êxito no pensamento. Julgamento equilibrado.",
+      "emocional": "Amor equilibrado, sadio. União que se completa em todos os planos.",
+      "fisico": "Sucesso num empreendimento. Continuidade nos negócios. No caso de um projeto, desfecho. Saúde magnífica.",
+      "sombra": "Demoras",
+      "desc": "Representa o homem que, tendo completado seu trabalho, volta-se pra a oração e pede a ajuda divina para seguir com sucesso o novo caminho de sua evolução.Contentamento, repouso de todo o coração; perfeição nesse estado; também perfeição do amor e da amizade humana. Ao lado de várias cartas de figura, uma pessoa que está defendendo os interesses do consulente; também a cidade ou o país habitado pelo consulente."
     },
     {
       "nome": "Cavalo de Ouros",
@@ -688,11 +688,11 @@
       "valor_int": 1,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Contribuição ativa, bem equilibrada e realizadora.",
+      "emocional": "Brilho, crescimento.",
+      "fisico": "Oportunidades que tanto podem ser adiadas ou antecipadas. Lucros ampliados. Afirmação de sucesso. Saúde exuberante.",
+      "sombra": "O lado mau da riqueza, inteligência deficiente; também grandes riquezas. Em qualquer caso mostra prosperidade, condições materiais confortáveis, mas depende do conjunto das cartas para saber se tais condições trazem ou não vantagem para o possuidor.",
+      "desc": "Simboliza o reservatório das atividades em todos os planos, em todas as partes do Cosmo. Representa o desejo que o Homem tem de projetar obras completas feitas à sua imagem e capazes de vir à luz espontaneamente. "
     },
     {
       "nome": "Dois de Ouros",
@@ -701,11 +701,11 @@
       "valor_int": 2,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Apoio para uma atividade, desde o espiritual ao material, como uma inspiração que provoca idéias realizadoras e soluções aos problemas.",
+      "emocional": "Facilidade de aproximação dos seres tanto no espírito como no sentimento.",
+      "fisico": "Confiança, mas de forma sutil. Apoio que tem base no plano da alma, como a fé, que facilita a realização.",
+      "sombra": "Alegria forçada, prazer simulado, sentido literal, caligrafia, composição, letras de câmbio.",
+      "desc": "Representa iluminação íntima que dinamiza a inteligência com vistas a realizações futuras. Por um lado, é apresentada como uma carta de alegria, recreação, diversão; mas também é lida como notícias e mensagens por escrito, obstáculos, agitação, perturbação, intrigas. Representa mensagem, carta, correspondência, bilhete. Obstáculos, embaraços, empreendimentos. Significa fortuna dividida, porém probabilidade de associação produtiva."
     },
     {
       "nome": "Três de Ouros",
@@ -714,11 +714,11 @@
       "valor_int": 3,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Relação com grandes intuições, com revelações do conhecimento. É a inteligência que acompanha o amor em seu sentido mais elevado.",
+      "emocional": "Aporte de confiança, proselitismo, misticismo ativo, ação animada e envolvida.",
+      "fisico": "Confiança em si para os empreendimentos, intuição do que é necessário fazer. Saúde normal, sem excesso de vitalidade. Eventuais instabilidades e alterações nervosas.",
+      "sombra": "Mediocridade, no trabalho e em outras atividades ou expressões, imaturidade, mesquinhez, fraqueza. Abatimento, adiamentos.",
+      "desc": "Indica uma expansão mental através de um trabalho construtivo e regenerador. Profissão, trabalho especializado. Também é considerada uma carta de nobreza, aristocracia, renome, glória. Representa nascimento, grandeza de alma, nobreza, celebridade, renome. Indica fortuna por empreeendimentos habilmente dirigidos, pelo trabalho e pela genialidade."
     },
     {
       "nome": "Quatro de Ouros",
@@ -727,11 +727,11 @@
       "valor_int": 4,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Grandes inteligências organizadoras e realizadores, capazes de concretizações importantes.",
+      "emocional": "Realização impessoal, como é o caso do serviço à coletividade. Em assuntos comuns representa uma corrente superior que pode ultrapassar a capacidade de utilização pelas pessoas envolvidas.",
+      "fisico": "Negócios importantes, com grande repercussão. Boa saúde, vitalidade excelente, longevidade.",
+      "sombra": "Suspensão, retardamento, oposição.",
+      "desc": "Simboliza o ideal interior do homem, que dirige suas manifestações em todos os planos, dando força realizadora. A segurança da posse, doação, legado, herança. Significa recompensa, presente, legado, herança, generosidade, benefício. Representa aquisição certa de riqueza, fortuna estável."
     },
     {
       "nome": "Cinco de Ouros",
@@ -740,11 +740,11 @@
       "valor_int": 5,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Ganhos em movimento. Projetos que tomam corpo.",
+      "emocional": "Afinidades que podem levar às parcerias e casamento. Afeições fortalecidas.",
+      "fisico": "Lucro assegurado, aumento de clientela. Segurança quanto à saúde.",
+      "sombra": "Desordem, caos, ruína, discórdia, devassidão. Diminuição do impulso, mas sem impedir a realização dos propósitos.",
+      "desc": "Indica o homem diante das solicitações de sua consciência ativa em todos os domínios, utilizando sua capacidade construtiva com uma atividade harmoniosa e equilibrada. A carta prediz acima de tudo contratempos materiais. Para alguns cartomantes, é uma carta de amor e amantes – esposa, marido, amigo, amantes; também concordância, afinidade."
     },
     {
       "nome": "Seis de Ouros",
@@ -753,11 +753,11 @@
       "valor_int": 6,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Esforço ou sacrifício necessário ao sucesso. Capacidade para realizar as tarefas difíceis quando a obrigação se apresenta. ",
+      "emocional": "Renúncia a si mesmo; abnegação afetiva.",
+      "fisico": "Negócios que exigem algum sacrifício para serem bem sucedidos. Saúde sujeita a queda por envolvimento excessivo com as questões materiais.",
+      "sombra": "Desejo, cobiça, inveja, ciúme, ilusão.",
+      "desc": "Representa o aperfeiçoamento interno que o homem realiza através do esforço de conciliação das correntes do Alto com as de baixo, que permite o equilíbrio nas realizações. Presentes, donativos, gratificação. Atenção, vigilância; também o tempo aceito, prosperidade presente. Indica aspirações, ambições, esperanças, desejos. Denota bens inesperados, porém perigo de perdê-los por meio de falsos amigos."
     },
     {
       "nome": "Sete de Ouros",
@@ -766,11 +766,11 @@
       "valor_int": 7,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Enorme atividade de espírito com facilidade de exposição e de organização.",
+      "emocional": "Brilho nos sentimentos, vibração incomum, que pode atingir as massas",
+      "fisico": "Empreendimentos de envergadura e grande atividade. Saúde rica por seu dinamismo interno.",
+      "sombra": "Lentidão, entorpecimento. Parada e até falência. Ansiedade relativa a dinheiro que se pode querer emprestar.",
+      "desc": "Indica o estímulo ao homem para a ação e as decisões que deve tomar a fim de modificar por si mesmo um estado instável. De um modo geral, trata-se de uma carta de dinheiro, negócios, trocas. Pode representar inocência, candura, purificação; mas também é interpretada como indicadora de discussões, brigas."
     },
     {
       "nome": "Oito de Ouros",
@@ -779,11 +779,11 @@
       "valor_int": 8,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Necessidade de um esforço exatamente proporcional ao que se deseja obter. As coisas não acontecem por si mesmas: é preciso de esforços para obter um resultado.",
+      "emocional": "Proporciona segurança, mais na amizade do que no amor. Não é um arcano sentimental.",
+      "fisico": "Trocas proporcionais. Empreendimentos bem encaminhados, principalmente do ponto de vista comercial.",
+      "sombra": "Perturbações no andamento dos projetos.",
+      "desc": "Simboliza a compreensão do homem que, ao comparar o que está no Alto com o que está embaixo, atua do conhecido para o desconhecido, recebendo à medida que dá. Necessidade de um esforço exatamente proporcional ao que se deseja obter. As coisas não acontecem por si mesmas: é preciso de esforços para obter um resultado."
     },
     {
       "nome": "Nove de Ouros",
@@ -792,11 +792,11 @@
       "valor_int": 9,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Conhecimentos vastos, aprofundados. Inteligência que se abre a concepções amplas, à filosofia, aos ensinamentos.",
+      "emocional": "Sentimentos ricos, elevados. Também amores à primeira vista, intensos. Brilho.",
+      "fisico": "Empreendimentos que terão êxito e lucro assegurado. Saúde que favorece a atividade, vivacidade.",
+      "sombra": "Trapaça, decepção, projetos vãos, má fé. Ligeiro desânimo.",
+      "desc": "Representa o trabalho amplo, altruísta e equilibrado do homem com a finalidade de sua união com o mundo. Prudência, segurança, sucesso, consecução, certeza, discernimento."
     },
     {
       "nome": "Dez de Ouros",
@@ -805,11 +805,11 @@
       "valor_int": 10,
       "suit": "ouros",
       "tipo": "menor",
-      "material": "",
-      "emocional": "",
-      "fisico": "",
-      "sombra": "",
-      "desc": ""
+      "material": "Espírito universal, sábio, conhecedor dos princípios da matéria.",
+      "emocional": "Brilho, amor pelas grandes causas, apoteose.",
+      "fisico": "Saúde, beleza, harmonia física. Empreendimentos que envolve discussões especiais, em laboratórios, centros de estudo. Ponto de vista coletivo e não individual.",
+      "sombra": "Fatalidade, perda, assalto, jogos de azar.",
+      "desc": "Simboliza a totalização harmoniosa que permite ao homem penetrar no fundo de algumas coisas e organizá-las para o bem de outras. Lucros, riquezas; assuntos de família, arquivos, descendência, domicílio de uma família. Às vezes, oportunidades, donativos, dotes, pensão."
     },
     {
       "nome": "Cavalo de Espada",
