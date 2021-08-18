@@ -3,7 +3,7 @@
 ![Logo do Sunshine](public/assets/logo_principal_degrade_roxo.png)
 
 ## Sobre o Projeto
-[!WARNING] **O PROJETO ESTÁ EM DESENVOLVIMENTO**
+**STATUS: O PROJETO ESTÁ EM DESENVOLVIMENTO**
 
 ### História do tarot
 

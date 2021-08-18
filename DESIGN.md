@@ -8,7 +8,10 @@
 - Amarelo: #ffff01
 
 ## Fontes:
-### tag: <link rel="stylesheet" href="https://use.typekit.net/ngl6iiv.css">
+### tag: 
+~~~css
+ <link rel="stylesheet" href="https://use.typekit.net/ngl6iiv.css">
+~~~
 
 1. Adage Script JF - [Ver no Adobe Fonts](https://fonts.adobe.com/fonts/adage-script-jf)
 - Instrução: Para títulos e coisas muito destacadas (não exagerar!)
