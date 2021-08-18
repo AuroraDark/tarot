@@ -1,6 +1,6 @@
 # :sunny: Sunshine
-## TAROT ONLINE
-### Um projeto de Jogo de Cartas de Tarot
+**TAROT ONLINE**
+Um projeto de Jogo de Cartas de Tarot
 
 ![Logo do Sunshine](public/assets/logo_principal_degrade_roxo.png)
 
@@ -8,5 +8,5 @@
 - [DESIGN](DESIGN.md)
 
 ## Autores
-[Larissa de Athayde](https://github.com/LarissaAthayde)
-[Andressa Silva](https://github.com/AuroraDark)
+- [Larissa de Athayde](https://github.com/LarissaAthayde)
+- [Andressa Silva](https://github.com/AuroraDark)
