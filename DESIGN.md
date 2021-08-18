@@ -14,15 +14,25 @@
 ~~~
 
 1. Adage Script JF - [Ver no Adobe Fonts](https://fonts.adobe.com/fonts/adage-script-jf)
-- Instrução: Para títulos e coisas muito destacadas (não exagerar!)
-- CSS: font-family: adage-script-jf, sans-serif;
-- Tamanhos
-Regular: 400
 
-2. Omnes Pro - [Ver no Adobe Fonts](https://fonts.google.com/specimen/Roboto)
-- Instrução: Ser usado no texto da página. É uma fonte levemente diferente, muito bonita.
-- CSS: font-family: omnes-pro, sans-serif;
+- Instrução: Para títulos e coisas muito destacadas (não exagerar!)
+- CSS: 
+  ~~~css
+    font-family: adage-script-jf, sans-serif;
+  ~~~
+
 - Tamanhos
-Light:300
-Regular:400
-Semibold:700
+  - Regular: 400
+
+1. Omnes Pro - [Ver no Adobe Fonts](https://fonts.adobe.com/fonts/omnes)
+
+- Instrução: Ser usado no texto da página. É uma fonte levemente diferente, muito bonita.
+- CSS: 
+ ~~~css
+    font-family: omnes-pro, sans-serif;
+  ~~~
+ 
+- Tamanhos
+   - Light:300
+   - Regular:400
+   - Semibold:700
